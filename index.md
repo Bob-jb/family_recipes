@@ -6,3 +6,5 @@ set of recipes as given by my grandma
     - [base](./pizzas/base.md)
 - sauces (TODO)
 - spreads (TODO)
+- meals
+    - [Green Eggs and Ham](./meals/geh.md) 
